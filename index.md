@@ -32,6 +32,6 @@
 
 [Lab Report 1](lab-report-1-week-2.html)
 
-[Lab Report 1](https://<WEIGUOZENG>.github.io/<your-lab-reports-repo>/lab-report-1-week-2.html)
+[Lab Report 1](https://<WEIGUOZENG>.github.io/<cse15l-lab-reports>/lab-report-1-week-2.html)
 
 ![Image](https://th.bing.com/th/id/OIP.GBtr3R4epJEwhCWt2oCV8AHaEK?w=332&h=187&c=7&r=0&o=5&dpr=1.25&pid=1.7)
