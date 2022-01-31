@@ -19,14 +19,14 @@ I saw the files in my account and some information such as their names and last 
 ![image](try_codes.png)
 
 I tried some commands after connecting to the server.
-I learned some commands such as "ls -l" which shows the files with their information or "touch" to create new files.
+I learned some commands such as `ls -l` which shows the files with their information or `touch` to create new files.
 
 
 ## Moving Files with scp
 
 ![image](move_file.png)
 
-After moving my file WhereAmI, I can find the file and its information on the server with ls -l command.
+After moving my file WhereAmI, I can find the file and its information on the server with `ls -l` command.
 It shows different directory and user name on the server after compling it.
 
 
