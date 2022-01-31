@@ -44,3 +44,5 @@ Then I try to connect to the server with my account on my computer and succeeded
 
 After previous steps, I can conncect to my account on the server without password and directly run my file WhereAmI.
 I used ssh command to compile and run WhereAmI on the client successfully.
+I can run WhereAmI directly with 48 keystroke while it would take about 31 keystrokes and keystrokes for password to login and less than 20 keystrokes to run WhereAmI.
+As a result, it would be more efficient to run the file remotely.
