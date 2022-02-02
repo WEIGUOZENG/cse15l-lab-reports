@@ -1,3 +1,5 @@
+### https://github1s.com/WEIGUOZENG/cse15l-lab-reports/blob/main/lab-report-1-week-2.md
+
 ## Installing VScode
 
 ![image](install_VScode.png)
