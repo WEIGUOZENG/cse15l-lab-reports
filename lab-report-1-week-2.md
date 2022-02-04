@@ -1,4 +1,4 @@
-### https://github1s.com/WEIGUOZENG/cse15l-lab-reports/blob/main/lab-report-1-week-2.md
+
 
 ## Installing VScode
 
@@ -6,7 +6,7 @@
 
 I downloaded and installed VScode on my local device. 
 Then I learned to writing codes and commands with it.
-
+[vscode link](https://code.visualstudio.com/)
 
 ## Remotely Connecting
 
