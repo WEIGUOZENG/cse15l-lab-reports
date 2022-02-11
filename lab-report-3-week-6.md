@@ -10,7 +10,7 @@ The host is ieng6
 
 ### ssh command
 
-using code 'ssh ieng', I directly login to my account
+using code `ssh ieng6`, I directly login to my account
 
 ![image](sshLogin1.png)
 
@@ -19,7 +19,7 @@ using code 'ssh ieng', I directly login to my account
 
 ### scp command
 
-using code 'scp -r . cs15lwi22ajo@ieng6.ucsd.edu:~/markdown-parse',
+using code `scp -r . cs15lwi22ajo@ieng6.ucsd.edu:~/markdown-parse`,
 I copy the whole file of markdown-parse to the server.
 
 ![image](scpCopyFile.png)
