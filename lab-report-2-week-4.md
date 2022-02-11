@@ -14,7 +14,7 @@
 ## syptoms
 ![image](output2.png)
 
-![image](output3.png)
+![image](output4.png)
 
 ![image](output1.png)
 
@@ -22,4 +22,6 @@ the output should be all links in testfiles instead of only the first line.
 
 
 
-The failure-inducing input can lead to the symptom. When there is a symptom, there is possible to be a bug in the program. 
+The first syptom is because the infinite while loop does not stop when there is no brackets or parenthesis. So that it will be out of memory.
+
+The second syptom is because the loop should break when there is no 
