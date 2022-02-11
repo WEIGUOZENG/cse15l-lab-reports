@@ -12,6 +12,7 @@
 
 
 ## syptoms
+
 ![image](output2.png)
 
 ![image](output4.png)
@@ -21,7 +22,8 @@
 the output should be all links in testfiles instead of only the first line.
 
 
+The first syptom is because the infinite while loop does not stop when there is no brackets or parenthesis. So that it will be out of memory. So that there should be break when the index of these brackests or parenthesis is -1
 
-The first syptom is because the infinite while loop does not stop when there is no brackets or parenthesis. So that it will be out of memory.
+The second syptom is because there is not close parenthesis at the end of the link so that it will be out of index when the loop is trying to find the index of a close parenthesis. So that null should be returned when there is close parenthesis.
 
-The second syptom is because the loop should break when there is no 
+the thirs syptom is because is because the code did not consider multiple links in one file and only read the first line in the file. So that there should be a loop that keep reading the file when there are contents.
