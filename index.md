@@ -4,4 +4,4 @@
 
 [Lab Report 2](lab-report-2-week-4.html) 
 
-
+[Lab Report 2](lab-report-3-week-6.html) 
