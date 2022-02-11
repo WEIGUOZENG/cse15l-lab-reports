@@ -14,9 +14,11 @@
 ## syptoms
 ![image](output2.png)
 
+![image](output3.png)
+
 ![image](output1.png)
 
-the output should be all links in testfile4 instead of the first line.
+the output should be all links in testfiles instead of only the first line.
 
 
 
