@@ -20,7 +20,7 @@ using code `ssh ieng6`, I directly login to my account
 ### scp command
 
 using code `scp -r . ieng6:~/Assignment1.java`,
-I copy a java file to the server.
+I copied a java file to the server.
 
 ![image](scp.png)
 
