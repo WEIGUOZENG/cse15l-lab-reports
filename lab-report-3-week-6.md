@@ -19,8 +19,8 @@ using code `ssh ieng6`, I directly login to my account
 
 ### scp command
 
-using code `scp -r . cs15lwi22ajo@ieng6.ucsd.edu:~/markdown-parse`,
-I copy the whole file of markdown-parse to the server.
+using code `scp -r . ieng6:~/Assignment1.java`,
+I copy a java file to the server.
 
 ![image](scp.png)
 
