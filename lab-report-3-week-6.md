@@ -22,7 +22,7 @@ using code `ssh ieng6`, I directly login to my account
 using code `scp -r . cs15lwi22ajo@ieng6.ucsd.edu:~/markdown-parse`,
 I copy the whole file of markdown-parse to the server.
 
-![image](scpCopyFile.png)
+![image](scp.png)
 
 
 
