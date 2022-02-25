@@ -17,7 +17,7 @@ the link should be  `https://ucsd-cse15l-w22.github.io/` for snippet3
 
 ## test code 
 
-![image](testCode.png)
+![image](testCdoe.png)
 
 
 ## test outcome for my implementation
