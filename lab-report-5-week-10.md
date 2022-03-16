@@ -13,7 +13,7 @@ I should change the while loop to find semicolon after the last close bracket af
 ## Difference 2
 I also found a difference between the results in line346:
 ![image](diff2.png)
-Output of my code is [url &quot;tit&quot;] when is the expected result should be [].
+ when the expected result should be [].
 
 ## To give the expected output for this testfile:
 I should add `int checkNum = 0;` and a for loop in the while loop after close parenthesis is found. The statement would be like `for(int i=openParen+1; i<closeParen; i++)` to get every arr type element in the String between two parenthesis. If statements in the for loop will check if the element at index i is a notation such as "&" or ";' and set checkNum to 1 and break the for loop if the argumrnt is ture. Then use an if statement after the for loop that break the while loop when checkNum is 1.
